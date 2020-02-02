@@ -4,7 +4,7 @@
 É um projeto que consiste na utilização de uma árvore binaria completa, que possui perguntas e respostas em sua estrutura,
 realizando o caminho na árvore conforme a respostas do usuário.
 
-#Siga os seguintes passos para a utilização do Software
+<b>Siga os seguintes passos para a utilização do Software:<b>
 
 Passos para Execução:
 (Tela de "menu" apresentada pelo sistema)
