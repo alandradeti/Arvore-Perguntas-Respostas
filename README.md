@@ -1,5 +1,5 @@
 # Arvore-Perguntas-Respostas
-# Perguntas e Respostas Simplificado - JAVA (Nome: Ailton Lima de Andrade)
+# Perguntas e Respostas Simplificado - JAVA
 
 É um projeto que consiste na utilização de uma árvore binaria completa, que possui perguntas e respostas em sua estrutura,
 realizando o caminho na árvore conforme a respostas do usuário.
